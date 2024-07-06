@@ -6,7 +6,6 @@ Este é um projeto desenvolvido utilizando apenas HTML e CSS puro. O objetivo de
 Desafios Encontrados
 Durante o desenvolvimento deste projeto, encontrei algumas dificuldades ao utilizar o Figma para criar o design. Já havia utilizado o Figma antes, mas ainda assim, encontrei alguns obstáculos ao tentar transformar o design em código. Qualquer feedback ou sugestão de melhoria seria muito bem-vindo!
 
-Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, por favor, abra uma issue ou envie um pull request.
 
 Feedback
