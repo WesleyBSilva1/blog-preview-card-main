@@ -1,7 +1,3 @@
-
-Claro! Aqui está um exemplo de um README para o seu projeto GitHub:
-
-Nome do Projeto
 Descrição curta do projeto.
 
 Visão Geral
